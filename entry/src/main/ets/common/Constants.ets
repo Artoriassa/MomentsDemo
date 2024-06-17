@@ -1,6 +1,7 @@
 export default class Constants {
   static readonly FULL_LENGTH = '100%';
   static readonly COMMON_LENGTH = '90%';
+  static readonly MOMENTS_CONTENT_LENGTH = '85%';
   static readonly HALF_LENGTH = '50%';
   static readonly QUARTER_LENGTH = '25%';
   static readonly ONE_EIGHTH_LENGTH = '12.5%';
@@ -10,6 +11,7 @@ export default class Constants {
   static readonly SPACING_LARGE = 32;
   static readonly SPACING_EXTRA_LARGE = 60;
   static readonly ZERO = 0;
+  static readonly MOMENTS_GRID_MAX_LENGTH = 3;
   static readonly COLON = ':';
   static readonly SPACE = ' ';
   static readonly EMPTY_STRING = '';
